@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Learn\\Linh tinh\\Net104\\ASM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA2FB85-49A5-44B1-9A38-4AA437D0D8DA}|ASM\\ASM.csproj|d:\\learn\\linh tinh\\net104\\asm\\asm\\repositories\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA2FB85-49A5-44B1-9A38-4AA437D0D8DA}|ASM\\ASM.csproj|solutionrelative:asm\\repositories\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA2FB85-49A5-44B1-9A38-4AA437D0D8DA}|ASM\\ASM.csproj|d:\\learn\\linh tinh\\net104\\asm\\asm\\repositories\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA2FB85-49A5-44B1-9A38-4AA437D0D8DA}|ASM\\ASM.csproj|solutionrelative:asm\\repositories\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA2FB85-49A5-44B1-9A38-4AA437D0D8DA}|ASM\\ASM.csproj|d:\\learn\\linh tinh\\net104\\asm\\asm\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA2FB85-49A5-44B1-9A38-4AA437D0D8DA}|ASM\\ASM.csproj|solutionrelative:asm\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA2FB85-49A5-44B1-9A38-4AA437D0D8DA}|ASM\\ASM.csproj|d:\\learn\\linh tinh\\net104\\asm\\asm\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA2FB85-49A5-44B1-9A38-4AA437D0D8DA}|ASM\\ASM.csproj|solutionrelative:asm\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA2FB85-49A5-44B1-9A38-4AA437D0D8DA}|ASM\\ASM.csproj|d:\\learn\\linh tinh\\net104\\asm\\asm\\models\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA2FB85-49A5-44B1-9A38-4AA437D0D8DA}|ASM\\ASM.csproj|solutionrelative:asm\\models\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA2FB85-49A5-44B1-9A38-4AA437D0D8DA}|ASM\\ASM.csproj|d:\\learn\\linh tinh\\net104\\asm\\asm\\models\\cartdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA2FB85-49A5-44B1-9A38-4AA437D0D8DA}|ASM\\ASM.csproj|solutionrelative:asm\\models\\cartdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA2FB85-49A5-44B1-9A38-4AA437D0D8DA}|ASM\\ASM.csproj|d:\\learn\\linh tinh\\net104\\asm\\asm\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA2FB85-49A5-44B1-9A38-4AA437D0D8DA}|ASM\\ASM.csproj|solutionrelative:asm\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA2FB85-49A5-44B1-9A38-4AA437D0D8DA}|ASM\\ASM.csproj|d:\\learn\\linh tinh\\net104\\asm\\asm\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA2FB85-49A5-44B1-9A38-4AA437D0D8DA}|ASM\\ASM.csproj|solutionrelative:asm\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA2FB85-49A5-44B1-9A38-4AA437D0D8DA}|ASM\\ASM.csproj|d:\\learn\\linh tinh\\net104\\asm\\asm\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA2FB85-49A5-44B1-9A38-4AA437D0D8DA}|ASM\\ASM.csproj|solutionrelative:asm\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA2FB85-49A5-44B1-9A38-4AA437D0D8DA}|ASM\\ASM.csproj|d:\\learn\\linh tinh\\net104\\asm\\asm\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA2FB85-49A5-44B1-9A38-4AA437D0D8DA}|ASM\\ASM.csproj|solutionrelative:asm\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICartRepository.cs",
+              "DocumentMoniker": "D:\\Learn\\Linh tinh\\Net104\\ASM\\ASM\\Repositories\\ICartRepository.cs",
+              "RelativeDocumentMoniker": "ASM\\Repositories\\ICartRepository.cs",
+              "ToolTip": "D:\\Learn\\Linh tinh\\Net104\\ASM\\ASM\\Repositories\\ICartRepository.cs",
+              "RelativeToolTip": "ASM\\Repositories\\ICartRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T09:36:34.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CartRepository.cs",
+              "DocumentMoniker": "D:\\Learn\\Linh tinh\\Net104\\ASM\\ASM\\Repositories\\CartRepository.cs",
+              "RelativeDocumentMoniker": "ASM\\Repositories\\CartRepository.cs",
+              "ToolTip": "D:\\Learn\\Linh tinh\\Net104\\ASM\\ASM\\Repositories\\CartRepository.cs",
+              "RelativeToolTip": "ASM\\Repositories\\CartRepository.cs",
+              "ViewState": "AQIAAJIAAAAAAAAAAAAvwJUAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T09:35:13.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "D:\\Learn\\Linh tinh\\Net104\\ASM\\ASM\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "ASM\\Controllers\\CartController.cs",
+              "ToolTip": "D:\\Learn\\Linh tinh\\Net104\\ASM\\ASM\\Controllers\\CartController.cs",
+              "RelativeToolTip": "ASM\\Controllers\\CartController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAjwCsAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T09:34:51.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Learn\\Linh tinh\\Net104\\ASM\\ASM\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "ASM\\Models\\Order.cs",
+              "ToolTip": "D:\\Learn\\Linh tinh\\Net104\\ASM\\ASM\\Models\\Order.cs",
+              "RelativeToolTip": "ASM\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T16:03:16.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "D:\\Learn\\Linh tinh\\Net104\\ASM\\ASM\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "ASM\\Models\\OrderDetail.cs",
+              "ToolTip": "D:\\Learn\\Linh tinh\\Net104\\ASM\\ASM\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "ASM\\Models\\OrderDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T15:48:40.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CartDetail.cs",
+              "DocumentMoniker": "D:\\Learn\\Linh tinh\\Net104\\ASM\\ASM\\Models\\CartDetail.cs",
+              "RelativeDocumentMoniker": "ASM\\Models\\CartDetail.cs",
+              "ToolTip": "D:\\Learn\\Linh tinh\\Net104\\ASM\\ASM\\Models\\CartDetail.cs",
+              "RelativeToolTip": "ASM\\Models\\CartDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T16:03:46.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "D:\\Learn\\Linh tinh\\Net104\\ASM\\ASM\\Models\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "ASM\\Models\\OrderStatus.cs",
+              "ToolTip": "D:\\Learn\\Linh tinh\\Net104\\ASM\\ASM\\Models\\OrderStatus.cs",
+              "RelativeToolTip": "ASM\\Models\\OrderStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T15:54:50.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "D:\\Learn\\Linh tinh\\Net104\\ASM\\ASM\\Models\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "ASM\\Models\\ShoppingCart.cs",
+              "ToolTip": "D:\\Learn\\Linh tinh\\Net104\\ASM\\ASM\\Models\\ShoppingCart.cs",
+              "RelativeToolTip": "ASM\\Models\\ShoppingCart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T16:09:32.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Learn\\Linh tinh\\Net104\\ASM\\ASM\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ASM\\Models\\Product.cs",
+              "ToolTip": "D:\\Learn\\Linh tinh\\Net104\\ASM\\ASM\\Models\\Product.cs",
+              "RelativeToolTip": "ASM\\Models\\Product.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T15:15:10.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Learn\\Linh tinh\\Net104\\ASM\\ASM\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "ASM\\Models\\Category.cs",
+              "ToolTip": "D:\\Learn\\Linh tinh\\Net104\\ASM\\ASM\\Models\\Category.cs",
+              "RelativeToolTip": "ASM\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T15:13:11.401Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
