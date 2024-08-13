@@ -1,0 +1,52 @@
+Sử dụng git.
+
+*Login git (Ở git bash)
+$ git config --global user.name "Topi-Workspace": TopiWorkspace là username của git(đổi username git của bản thân)
+$ git config --global user.email tuanworkspace@gmail.com: Email đăng nhập git (Đổi email git của bản thân)
+$ git config --list: kiểm tra tồn tại của tài khoản
+
+*Add project lên git (Đây là lần đầu cần sử dụng)(vào floder của dự án cần được đưa lên git - Chuột phải chọn "git bash here")
+$ git init : khởi tạo
+$ git remote add origin https://github.com/Topi-WorkSpace/Ecommerce-v2.git: clone project vào git cần dùng(ở trong cái git đừng có add tào lao vào)
+$ git remote -v: Kiểm tra đã clone lên chưa
+$ git add . :add toàn bộ dữ liệu ở floder lên git
+$ git commit -m"Ecommerce-v2" : Đặt tên cho phần được add. Ở đây tên là "Ecommerce-v2"
+$ git push : Để hoàn tất việc đưa dữ liệu lên git
+
+* Update project sau khi sửa chữa
+$ git add .
+$ git commit -m"(Tên gì cũng được)": "Thống nhất là lúc commit trong quá trình sửa cần lưu tên để sau này quản lí phần code và code những gì"
+$ git push : Hoàn tất cập nhật dữ liệu
+
+* Các lệnh cần dùng kiểm tra
+$ git log: xem ngày giờ mà các tv cập nhật dự án
+$ git status: Kiểm tra trạng thái của kho lưu trữ. Lệnh này sẽ cho bạn biết về các thay đổi chưa được commit.
+$ git diff: Hiển thị sự khác biệt giữa các thay đổi trong dự án. Bạn có thể sử dụng git diff để xem những gì đã thay đổi trong các tệp tin chưa được commit.
+$ git pull origin master: Cập nhật kho lưu trữ cục bộ của bạn với phiên bản mới nhất từ kho lưu trữ từ xa.
+$ git branch: Liệt kê tất cả các nhánh trong kho lưu trữ của bạn. Bạn cũng có thể sử dụng nó để tạo hoặc xóa nhánh.
+$ git checkout: Chuyển đổi giữa các nhánh trong kho lưu trữ của bạn. Bạn cũng có thể sử dụng nó để khôi phục tệp tin về trạng thái của chúng trong commit cuối cùng.
+$ git merge: Kết hợp các thay đổi từ một nhánh vào nhánh hiện tại bạn đang làm việc.
+$ git clone: Sao chép một kho lưu trữ từ xa về máy cục bộ của bạn.
+
+* xoá thư mục ở git (cần thảo luận trc khi xoá)
+$ git rm your-file-name: chọn file name cần xoá
+$ git commit -m "Your commit message": xác định thay đổi
+$ git push origin your-branch-name: đẩy thay đổi lên git
+
+* Tạo nhánh(branch)
+$ git branch -l: Kiểm tra số nhánh or kiểm tra đang ở nhánh nào
+$ git branch <name>: Sử dụng nhánh nếu tên đã tồn tại or Tạo nhánh mới nếu tên kh tồn tại
+$ git checkout <name>: Chuyển nhánh
+vd. đang ở nhánh master -> chuyển sang nhánh TuanWorkSpace thì. $ git checkout TuanWorkSpace.
+
+*trộn dữ liệu (merge)
+ - Trong quá trình thực hiện code, nếu master có vấn đề và vừa đc cập nhật - Quá trình cập nhật ở master không đồng nghĩa với việc các feature của mọi người được cập nhật theo thế nên chúng ta sẽ cập nhật lại dự án từ master xuống feature của từng người
+$ git merge master: Đứng từ branch đang hđ và cập nhật dữ liệu từ master
+$ git add .
+$ git commit -m"ten"
+$ git push -> sau khi thực hiện git push sẽ xuất hiện dòng lệnh git push --set-upstream origin <tên nhánh>. Nhập lại dòng này lần nữa
+
+* Cập nhật dữ liệu từ nhánh lên Master(Hoàn tất task)
+Sau khi có những thay đổi từ nhánh của bản thân -> và nó đã hđ trơn tru thì ae sử dụng Compare & pull resquest ở github. Nó sẽ gửi 1 dòng xác nhận về cho master để thực hiện gộp dữ liệu lại
+
+---------  Tới đây là xong rồi đấy AE xem và sử dụng ----------
